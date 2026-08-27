@@ -17,3 +17,9 @@ estabilidad biológica ni resistencia a la degradación del ADN.
 
 Nadal Ferrà  
 Investigador Independiente en Modelado Bioinformático y Trazabilidad de Datos Genómicos
+-----------------------------
+arquitectura_multimodal_bioespacial_genomica_latente_Z_v1-3.pdf
+Objetivo futuro: demostrar que el espacio latente Z
+constituye una representación biológica común, interpretable y transferible entre distintas modalidades, épocas y localizaciones, manteniendo su robustez incluso ante la ausencia parcial de datos.
+
+
