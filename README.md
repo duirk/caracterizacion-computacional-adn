@@ -1,3 +1,4 @@
+https://zenodo.org/records/22135148
 # Caracterización Computacional de Secuencias de ADN
 
 Marco analítico *in silico* para la caracterización de secuencias de ADN mediante:
